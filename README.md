@@ -1,1 +1,1 @@
-# diplom_afina_malevsnova_autotests_SQL
+# diplom_afina_malevanova_autotests_SQL
